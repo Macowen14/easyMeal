@@ -28,6 +28,7 @@ const FeaturedRow = ({ title, description, data }) => {
         showsHorizontalScrollIndicator={false}
         contentContainerStyle={{
           paddingHorizontal: 15,
+          paddingVertical: 10,
         }}
         className="overflow-visible"
       >

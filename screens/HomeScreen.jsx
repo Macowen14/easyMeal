@@ -15,7 +15,7 @@ import FeaturedRow from "../components/FeaturedRow";
 const HomeScreen = () => {
   return (
     <SafeAreaView className="flex-1 bg-white pt-2">
-      <StatusBar barStyle={"dark-content"} backgroundColor={"white"} />
+      <StatusBar barStyle={"light-content"} />
       <SearchBar />
       {/*Main */}
 
